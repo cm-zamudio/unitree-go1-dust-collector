@@ -1,4 +1,10 @@
-Undergraduate Research project for Fall 2025. Using a Unitree GO1 robot, I attatched a vacumm to GO1 to clean dirty spots on the floor. To detect where a location needs to be cleaned, an Intel Realsense D435i camera with YOLO object detction was attatched to GO1. Below are the steps required to replicate the project. I used ROS2 humble and Ubuntu 22.04.
+Undergraduate Research project - Fall 2025, University of Illinois Chicago
+
+The project uses a **Unitree GO1 quadruped robot** equipped with a **vacuum attachment** to autonomously clean dirty spots on the floor. To detect areas requiring cleaning, an **Intel RealSense D435i camera** combined with **YOLO-based object detection** is mounted on the GO1.
+
+The system is built using **ROS 2 Humble** and **Ubuntu 22.04**.
+
+The sections below describe the steps required to replicate the project.
 
 ## Dependencies / Acknowledgements
 
