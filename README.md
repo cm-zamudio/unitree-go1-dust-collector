@@ -8,9 +8,9 @@ This project uses the following external package:
   https://github.com/simonbogh/realsense-d435-rtab-map-in-ROS2  
   Used for RTAB-Map integration with the Intel RealSense D435 in ROS 2.
 
--**unitree_ros**
- https://github.com/snt-arg/unitree_ros
- Used for ROS2 integration with GO1 robot.
+- **unitree_ros**
+  https://github.com/snt-arg/unitree_ros
+  Used for ROS2 integration with GO1 robot.
 
 
 1) ros2 launch yolov8_ros2 camera_yolo.launch.py
