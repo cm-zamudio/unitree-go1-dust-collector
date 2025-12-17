@@ -18,6 +18,7 @@ This project uses the following external package:
   https://github.com/snt-arg/unitree_ros
   Used for ROS2 integration with GO1 robot.
 
+## Run
 
 1) ros2 launch yolov8_ros2 camera_yolo.launch.py
 
