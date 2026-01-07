@@ -60,18 +60,7 @@ class Yolov8Node(Node):
         self.declare_parameter(
             "world_classes",
             [
-                 "crumpled white paper ball on the floor",
-                 "crumpled paper ball",
-                 "crumpled paper trash",
-                 "small white trash on the floor",
-                # "dust on the ground",
-                # "trash on the ground",
-                # "dirt on the ground"
-                 "dust on ground",
-                 "brown dust on ground",
-                 "beige object on black ground",
-                 "different colored object on black floor",
-                 "orange traffic cone"
+                 "dust on ground" # Note, for better object detection, use custom dataset
             ]
         )
         self.world_classes = list(
