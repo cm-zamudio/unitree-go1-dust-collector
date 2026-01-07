@@ -6,6 +6,10 @@ The system is built using **ROS 2 Humble** and **Ubuntu 22.04**.
 
 The sections below describe the steps required to replicate the project.
 
+Thank you to professor Pranav Bhounsule for the sponsoring of this project. Project demo: https://youtu.be/P5t7v-KH8O8?si=NYL9PqG6ywD_npX2
+
+<img width="1207" height="646" alt="image" src="https://github.com/user-attachments/assets/d82d9a18-304c-4f7a-b982-4ddc43a1ef86" />
+
 ## Dependencies / Acknowledgements
 
 This project uses the following external package:
